@@ -205,7 +205,7 @@ const Ingredients = () => {
                     titleColor="text-blue-600"
                     columns={[
                         { title: "As per Indian Standard", items: biscuitIndianStandard },
-                        { title: "As per FASSAI", items: biscuitFssai },
+                        { title: "As per FSSAI", items: biscuitFssai },
                     ]}
                 />
 

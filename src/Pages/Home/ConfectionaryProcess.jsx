@@ -97,7 +97,7 @@ const ConfectioneryProcess = () => {
 
                     <p className="mt-3 text-base leading-7 text-gray-600 sm:text-lg">
                         Ingredient preparation, cooking, molding, cooling, and
-                        packaging in a simple animated React carousel.
+                        packaging is a part of this process.
                     </p>
                 </div>
 

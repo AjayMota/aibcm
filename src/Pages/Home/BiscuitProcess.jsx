@@ -86,8 +86,7 @@ const BiscuitProcess = () => {
                         Biscuit Making Process
                     </h1>
                     <p className="mt-3 text-base leading-7 text-gray-600 sm:text-lg">
-                        Mixing, forming, baking, cooling, and packaging in a simple animated
-                        React carousel.
+                        Mixing, forming, baking, cooling, and packaging is a part of this process.
                     </p>
                 </div>
 
